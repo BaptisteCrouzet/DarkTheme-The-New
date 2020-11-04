@@ -1,0 +1,20 @@
+name: Validate JSON
+
+on:
+    push:
+        paths:
+            - '**.json'
+            - '**.jsonc'
+
+jobs:
+  verify-json-validation:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+            ref: ${{ github.head_ref }}
+      - name: Validate JSON
+        uses: docker://orrosenblatt/validate-json-action:latest
+        env:
+          INPUT_SCHEMA: /path/to/schema.json
+          INPUT_JSONS: /themes/Dark Theme  The New-color-theme.json
