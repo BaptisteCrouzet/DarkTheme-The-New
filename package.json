@@ -1,0 +1,21 @@
+{
+    "name": "dark-theme---the-new",
+    "displayName": "Dark Theme : The New",
+    "description": "Tired of the basic dark theme of VS Code ? Tired of existing dark themes ? I was like you and I took one and improve it for myself. This theme is dark (oh surprise) but has a darker background, better color in terminal and git/errors are more flashies.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Theme : The New",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark Theme  The New-color-theme.json"
+            }
+        ]
+    }
+}
