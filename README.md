@@ -7,7 +7,7 @@
 
 <div align="center">
     <a href="https://github.com/BaptisteCrouzet/DarkTheme-The-New/tree/master">
-        <img src="https://github.com/BaptisteCrouzet/DarkTheme-The-New/blob/master/assets/Dark%20Theme%20the%20new@0,25x.png?raw=true" alt="logo">
+        <img src="https://github.com/BaptisteCrouzet/DarkTheme-The-New/blob/develop/assets/Dark-Theme-the-new@0,25x.png?raw=true" alt="logo">
     </a>
 </div>
 
