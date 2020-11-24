@@ -5,6 +5,12 @@
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/BaptisteCrouzet/DarkTheme-The-New/blob/master/LICENSE)
 <!-- [![Installs](https://vsmarketplacebadge.apphb.com/installs-short/dunstontc.dark-plus-syntax.svg?style=flat&color=blue)](https://marketplace.visualstudio.com/items?itemName=dunstontc.dark-plus-syntax) -->
 
+<div align="center">
+    <a href="https://github.com/BaptisteCrouzet/DarkTheme-The-New/tree/master">
+        <img src="https://raw.githubusercontent.com/BaptisteCrouzet/DarkTheme-The-New/master/assets/Dark Theme the new@0,25x.png" alt="logo">
+    </a>
+</div>
+
 VS Code is my favorite IDE and my eyes need a good dark theme. I found the "Dark Plus Syntax" theme but some things like warnings, errors were not well highlighted. So I started to add my personnal colors, I added the purple instead of the classic blue of VS Code and so I created my own theme !
 If you need any language to be highlighted or an element of the UI was forgotten, thank you to open an issue or a pull request.
 
