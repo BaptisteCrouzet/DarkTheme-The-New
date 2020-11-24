@@ -1,6 +1,6 @@
 {
-    "name": "dark-theme---the-new",
-    "displayName": "Dark Theme : The New",
+    "name": "dark-theme-the-new",
+    "displayName": "Dark-Theme-The-New",
     "description": "Tired of the basic dark theme of VS Code ? Tired of existing dark themes ? I was like you and I took one and improve it for myself. This theme is dark (oh surprise) but has a darker background, better color in terminal and git/errors are more flashies.",
     "version": "1.0.0",
     "license": "MIT",
@@ -33,5 +33,5 @@
         "color": "#9500a6",
         "theme": "dark"
     },
-    "icon": "assets/Dark Theme the new@0,25x.png"
+    "icon": "assets/Dark-Theme-the-new@0,25x.png"
 }
