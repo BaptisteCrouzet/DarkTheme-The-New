@@ -4,7 +4,7 @@
     "description": "Tired of the basic dark theme of VS Code ? Tired of existing dark themes ? I was like you and I took one and improve it for myself. This theme is dark (oh surprise) but has a darker background, better color in terminal and git/errors are more flashies.",
     "version": "1.0.0",
     "license": "MIT",
-	"publisher": "Baptiste Crouzet",
+	"publisher": "BaptisteCrouzet",
     "homepage": "https://github.com/BaptisteCrouzet/DarkTheme-The-New/tree/master",
     "bugs": {
         "url": "https://github.com/BaptisteCrouzet/DarkTheme-The-New/issues",
