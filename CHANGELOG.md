@@ -4,15 +4,16 @@ All notable changes to the "dark-theme---the-new" extension will be documented i
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [1.0.2] - 2020-12-03
+## [1.0.2] - 2020-12-08
 
 ### Fixed
 - (#1) Fix README file
 - (#1) Fix extension's page header background color
+- (#3) Reorder colors of the theme
 
 ## Added
 - (#2) Begin CHANGELOG file
-- (#3) NEw colors for activitybar, buttons, links, terminal cursor
+- (#3) NEw colors for activitybar, buttons, links, terminal cursor, terminal background, scrollbar. The findmatch occurences are more readable. Borders of sidebar, terminal and tabs now look more natural.
 
 ## [1.0.1] - 2020-11-26
 
