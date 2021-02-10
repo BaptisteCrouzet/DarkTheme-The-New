@@ -1,8 +1,3 @@
----
-title: "[TYPE] / [NAME]"
-assignees: BaptisteCrouzet
----
-
 # Pull Request Template
 
 ## Description
