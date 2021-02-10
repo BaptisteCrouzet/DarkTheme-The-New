@@ -1,8 +1,8 @@
 # Dark Theme : The New
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/BaptisteCrouzet.dark-theme-the-new.svg)]
-[![Downloads](https://vsmarketplacebadge.apphb.com/downloads/BaptisteCrouzet.dark-theme-the-new.svg)]
-[![Reviews](https://vsmarketplacebadge.apphb.com/rating/BaptisteCrouzet.dark-theme-the-new.svg)]
+![Version](https://vsmarketplacebadge.apphb.com/version/BaptisteCrouzet.dark-theme-the-new.svg)
+![Downloads](https://vsmarketplacebadge.apphb.com/downloads/BaptisteCrouzet.dark-theme-the-new.svg)
+![Reviews](https://vsmarketplacebadge.apphb.com/rating/BaptisteCrouzet.dark-theme-the-new.svg)
 ![Author](https://img.shields.io/badge/Author-Baptiste%20Crouzet-red)
 [![GitHub issues](https://img.shields.io/github/issues/BaptisteCrouzet/DarkTheme-The-New.svg)](https://github.com/BaptisteCrouzet/DarkTheme-The-New/issues)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/BaptisteCrouzet/DarkTheme-The-New/blob/master/LICENSE)
