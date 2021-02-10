@@ -1,5 +1,5 @@
 ---
-name: ":bug: Bug report"
+name: "\U0001F41E Bug report"
 about: Report a bug or a missing thing about this VS Code theme.
 title: "[DATE]: [FEATURE NAME]"
 labels: hotfix, bug
