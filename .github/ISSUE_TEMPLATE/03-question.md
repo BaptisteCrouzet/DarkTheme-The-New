@@ -6,6 +6,6 @@ labels: question
 assignees: BaptisteCrouzet
 ---
 
-# Question
+# Question-
 
 <!-- A clear and complete question. I will probably open an issue for you if any changes are needed. -->
