@@ -23,7 +23,7 @@ If you need any language to be highlighted or an element of the UI was forgotten
 
 ### The new status bar
 
-<img src="https://github.com/BaptisteCrouzet/DarkTheme-The-New/blob/develop/assets/statusbar-purple.png?raw=true" alt="image">
+<img src="https://github.com/BaptisteCrouzet/DarkTheme-The-New/blob/develop/assets/Statusbar-purple.png?raw=true" alt="image">
 
 ### The old git badges
 
@@ -43,15 +43,15 @@ If you need any language to be highlighted or an element of the UI was forgotten
 
 ###  Old editor
 
-<img src="https://github.com/BaptisteCrouzet/DarkTheme-The-New/blob/develop/assets/editor-blue.png?raw=true" alt="image">
+<img src="https://github.com/BaptisteCrouzet/DarkTheme-The-New/blob/develop/assets/editors-blue.png?raw=true" alt="image">
 <img src="https://github.com/BaptisteCrouzet/DarkTheme-The-New/blob/develop/assets/badges-blue.png?raw=true" alt="image">
 
 ### New editor
 
-<img src="https://github.com/BaptisteCrouzet/DarkTheme-The-New/blob/develop/assets/editor-purple.png?raw=true" alt="image">
+<img src="https://github.com/BaptisteCrouzet/DarkTheme-The-New/blob/develop/assets/editors-purple.png?raw=true" alt="image">
 <img src="https://github.com/BaptisteCrouzet/DarkTheme-The-New/blob/develop/assets/badges-purple.png?raw=true" alt="image">
 <img src="https://github.com/BaptisteCrouzet/DarkTheme-The-New/blob/develop/assets/new-editor.png?raw=true" alt="image">
-<img src="https://github.com/BaptisteCrouzet/DarkTheme-The-New/blob/develop/assets/new-editor2.png?raw=true" alt="image">
+<img src="https://github.com/BaptisteCrouzet/DarkTheme-The-New/blob/develop/assets/new-editor-2.png?raw=true" alt="image">
 
 ### The old
 
