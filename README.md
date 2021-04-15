@@ -1,5 +1,8 @@
 # Dark Theme : The New
 
+![Version](https://vsmarketplacebadge.apphb.com/version/BaptisteCrouzet.dark-theme-the-new.svg)
+![Downloads](https://vsmarketplacebadge.apphb.com/downloads/BaptisteCrouzet.dark-theme-the-new.svg)
+![Reviews](https://vsmarketplacebadge.apphb.com/rating/BaptisteCrouzet.dark-theme-the-new.svg)
 ![Author](https://img.shields.io/badge/Author-Baptiste%20Crouzet-red)
 [![GitHub issues](https://img.shields.io/github/issues/BaptisteCrouzet/DarkTheme-The-New.svg)](https://github.com/BaptisteCrouzet/DarkTheme-The-New/issues)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/BaptisteCrouzet/DarkTheme-The-New/blob/master/LICENSE)
@@ -14,13 +17,49 @@
 VS Code is my favorite IDE and my eyes need a good dark theme. I found the "Dark Plus Syntax" theme but some things like warnings, errors were not well highlighted. So I started to add my personnal colors, I added the purple instead of the classic blue of VS Code and so I created my own theme !
 If you need any language to be highlighted or an element of the UI was forgotten, thank you to open an issue or a pull request.
 
+### The old status bar
+
+<img src="https://github.com/BaptisteCrouzet/DarkTheme-The-New/blob/develop/assets/statusbar-blue.png?raw=true" alt="image">
+
+### The new status bar
+
+<img src="https://github.com/BaptisteCrouzet/DarkTheme-The-New/blob/develop/assets/Statusbar-purple.png?raw=true" alt="image">
+
+### The old git badges
+
+<img src="https://github.com/BaptisteCrouzet/DarkTheme-The-New/blob/develop/assets/git-old.png?raw=true" alt="image">
+
+### The new git badges
+
+<img src="https://github.com/BaptisteCrouzet/DarkTheme-The-New/blob/develop/assets/git-new.png?raw=true" alt="image">
+
+### The old terminal
+
+<img src="https://github.com/BaptisteCrouzet/DarkTheme-The-New/blob/develop/assets/old-terminal.png?raw=true" alt="image">
+
+### The new terminal
+
+<img src="https://github.com/BaptisteCrouzet/DarkTheme-The-New/blob/develop/assets/new-terminal.png?raw=true" alt="image">
+
+###  Old editor
+
+<img src="https://github.com/BaptisteCrouzet/DarkTheme-The-New/blob/develop/assets/editors-blue.png?raw=true" alt="image">
+<img src="https://github.com/BaptisteCrouzet/DarkTheme-The-New/blob/develop/assets/badges-blue.png?raw=true" alt="image">
+
+### New editor
+
+<img src="https://github.com/BaptisteCrouzet/DarkTheme-The-New/blob/develop/assets/editors-purpls.png?raw=true" alt="image">
+<img src="https://github.com/BaptisteCrouzet/DarkTheme-The-New/blob/develop/assets/badges-purple.png?raw=true" alt="image">
+<img src="https://github.com/BaptisteCrouzet/DarkTheme-The-New/blob/develop/assets/new-editor.png?raw=true" alt="image">
+<img src="https://github.com/BaptisteCrouzet/DarkTheme-The-New/blob/develop/assets/new-editor-2.png?raw=true" alt="image">
+
 ### The old
 
-<img src="https://github.com/BaptisteCrouzet/DarkTheme-The-New/blob/develop/assets/the-old.png?raw=true" alt="logo">
+<img src="https://github.com/BaptisteCrouzet/DarkTheme-The-New/blob/develop/assets/the-old.png?raw=true" alt="image">
 
 ### The new
 
-<img src="https://github.com/BaptisteCrouzet/DarkTheme-The-New/blob/develop/assets/the-new.png?raw=true" alt="logo">
+<img src="https://github.com/BaptisteCrouzet/DarkTheme-The-New/blob/develop/assets/the-new.png?raw=true" alt="image">
 
 ## Things you would like to know
 
