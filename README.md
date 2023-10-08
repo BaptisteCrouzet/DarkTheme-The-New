@@ -1,97 +1,45 @@
 # Dark Theme : The New
 
-![Version](https://vsmarketplacebadge.apphb.com/version/BaptisteCrouzet.dark-theme-the-new.svg)
-![Downloads](https://vsmarketplacebadge.apphb.com/downloads/BaptisteCrouzet.dark-theme-the-new.svg)
-![Reviews](https://vsmarketplacebadge.apphb.com/rating/BaptisteCrouzet.dark-theme-the-new.svg)
+![Version](https://vsmarketplacebadges.dev/version-short/BaptisteCrouzet.dark-theme-the-new.svg)
+![Installs](https://vsmarketplacebadges.dev/installs-short/BaptisteCrouzet.dark-theme-the-new.svg)
 ![Author](https://img.shields.io/badge/Author-Baptiste%20Crouzet-red)
 [![GitHub issues](https://img.shields.io/github/issues/BaptisteCrouzet/DarkTheme-The-New.svg)](https://github.com/BaptisteCrouzet/DarkTheme-The-New/issues)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/BaptisteCrouzet/DarkTheme-The-New/blob/master/LICENSE)
-<!-- [![Installs](https://vsmarketplacebadge.apphb.com/installs-short/dunstontc.dark-plus-syntax.svg?style=flat&color=blue)](https://marketplace.visualstudio.com/items?itemName=dunstontc.dark-plus-syntax) -->
 
 <div align="center">
     <a href="https://github.com/BaptisteCrouzet/DarkTheme-The-New/tree/master">
-        <img src="https://github.com/BaptisteCrouzet/DarkTheme-The-New/blob/develop/assets/Dark-Theme-the-new@0,25x.png?raw=true" alt="logo">
+        <img src="https://github.com/BaptisteCrouzet/DarkTheme-The-New/blob/develop/assets/logo@0,25x.jpg?raw=true" alt="logo">
     </a>
 </div>
+# Dark Theme - The New 🌙
 
-VS Code is my favorite IDE and my eyes need a good dark theme. I found the "Dark Plus Syntax" theme but some things like warnings, errors were not well highlighted. So I started to add my personnal colors, I added the purple instead of the classic blue of VS Code and so I created my own theme !
-If you need any language to be highlighted or an element of the UI was forgotten, thank you to open an issue or a pull request.
+**Dark Theme - The New** is a sleek and modern dark theme for Visual Studio Code. It's been crafted with a keen eye for detail to provide a comfortable and delightful coding experience. This theme is perfect for those late-night coding sessions, and for anyone who prefers a darker, more muted color palette.
 
-### The old status bar
+## Features 🌟
 
-<img src="https://github.com/BaptisteCrouzet/DarkTheme-The-New/blob/develop/assets/statusbar-blue.png?raw=true" alt="image">
+- A carefully curated color palette that's easy on the eyes. The dominant touch of **dark purple** throughout the theme provides a soothing and cohesive visual experience.
+- Distinct colors for **additions, deletions, and modifications, making diff reading a breeze**. This is particularly useful for developers who work with Git and other version control systems on a regular basis.
+- Excellent text readability across various widgets and status bars. I've ensured that every piece of text, whether it's in the editor or in a widget, is clear and easy to read.
+- Special attention to **Git-related activities and error highlighting** just because it's important to quickly spot changes and errors in your code, so these aspects stand out.
 
-### The new status bar
+## Preview 📸
 
-<img src="https://github.com/BaptisteCrouzet/DarkTheme-The-New/blob/develop/assets/Statusbar-purple.png?raw=true" alt="image">
+Here comes a small preview of the theme :
 
-### The old git badges
+<img src="https://github.com/BaptisteCrouzet/DarkTheme-The-New/blob/develop/assets/generic-screen-shot.png?raw=true" alt="image">
 
-<img src="https://github.com/BaptisteCrouzet/DarkTheme-The-New/blob/develop/assets/git-old.png?raw=true" alt="image">
+## Installation 💻
 
-### The new git badges
+1. Open the Extensions sidebar in Visual Studio Code (View -> Extensions).
+2. Search for "Dark Theme - The New".
+3. Click on the "Install" button.
+4. After installation, click on "Reload".
+5. Go to File -> Preferences -> Color Theme and select "Dark Theme - The New".
 
-<img src="https://github.com/BaptisteCrouzet/DarkTheme-The-New/blob/develop/assets/git-new.png?raw=true" alt="image">
+## Feedback and Suggestions 💌
 
-### The old terminal
+If you have any feedback or suggestions, feel free to open an issue on GitHub. Your input is always welcome! I am constantly looking to improve and add new features to the theme based on user feedback.
 
-<img src="https://github.com/BaptisteCrouzet/DarkTheme-The-New/blob/develop/assets/old-terminal.png?raw=true" alt="image">
+---
 
-### The new terminal
-
-<img src="https://github.com/BaptisteCrouzet/DarkTheme-The-New/blob/develop/assets/new-terminal.png?raw=true" alt="image">
-
-###  Old editor
-
-<img src="https://github.com/BaptisteCrouzet/DarkTheme-The-New/blob/develop/assets/editors-blue.png?raw=true" alt="image">
-<img src="https://github.com/BaptisteCrouzet/DarkTheme-The-New/blob/develop/assets/badges-blue.png?raw=true" alt="image">
-
-### New editor
-
-<img src="https://github.com/BaptisteCrouzet/DarkTheme-The-New/blob/develop/assets/editors-purpls.png?raw=true" alt="image">
-<img src="https://github.com/BaptisteCrouzet/DarkTheme-The-New/blob/develop/assets/badges-purple.png?raw=true" alt="image">
-<img src="https://github.com/BaptisteCrouzet/DarkTheme-The-New/blob/develop/assets/new-editor.png?raw=true" alt="image">
-<img src="https://github.com/BaptisteCrouzet/DarkTheme-The-New/blob/develop/assets/new-editor-2.png?raw=true" alt="image">
-
-### The old
-
-<img src="https://github.com/BaptisteCrouzet/DarkTheme-The-New/blob/develop/assets/the-old.png?raw=true" alt="image">
-
-### The new
-
-<img src="https://github.com/BaptisteCrouzet/DarkTheme-The-New/blob/develop/assets/the-new.png?raw=true" alt="image">
-
-## Things you would like to know
-
-* The comments are still green, but are in italic too.
-* The punctuation like commas, semicolons and dots are white because not seeing is not a good thing.
-* The terminal colors, and git UI informations are lighter than usual.
-* The most part of the WEB languages are supported.
-
-## Test and contribute to this theme
-
-**Be careful** This repository use **conventionnal commit** as guidelines for the commits. Thank you to respect these, more info can be found here : https://www.conventionalcommits.org/en/v1.0.0/. An extension also exists for VS Code ! All changes start with the ``develop` branche as reference.
-
-### What's in the folder
-
-* This folder contains all of the files necessary for your color theme extension.
-* `package.json` - this is the manifest file that defines the location of the theme file and specifies the base theme of the theme.
-* `themes/Dark Theme  The New-color-theme.json` - the color theme definition file.
-
-### Make changes
-
-* Press `F5` to open a new window with your extension loaded.
-* Open `File > Preferences > Color Themes` and pick your color theme.
-* Open a file that has a language associated. The languages' configured grammar will tokenize the text and assign 'scopes' to the tokens. To examine these scopes, invoke the `Inspect TM Scopes` command from the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P` on Mac) .
-* Changes to the theme file are automatically applied to the Extension Development Host window.
-* Put your changes inside `themes/Dark Theme  The New-color-theme.json` and create a pull request.
-
-### Adopt this theme into Visual Studio Code
-
-* To start using your extension with Visual Studio Code copy it into the `<user home>/.vscode/extensions` folder and restart Code.
-
-## Resources available
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-* [Scopes reference](https://code.visualstudio.com/api/extension-guides/color-theme)
+Thank you for considering **Dark Theme - The New** as your new favorite dark theme for Visual Studio Code!
