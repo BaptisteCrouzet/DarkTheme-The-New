@@ -4,7 +4,7 @@ All notable changes to the "dark-theme---the-new" extension will be documented i
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [1.1.0] - 2023-10-08
+## [1.2.0] - 2023-10-08
 
 ### Fixed
 - The last old git colors were replaced with the new vibrant ones added in 1.0.0
