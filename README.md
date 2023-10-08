@@ -1,4 +1,4 @@
-# Dark Theme : The New
+# Dark Theme : The New 🌙💜
 
 ![Version](https://vsmarketplacebadges.dev/version-short/BaptisteCrouzet.dark-theme-the-new.svg)
 ![Installs](https://vsmarketplacebadges.dev/installs-short/BaptisteCrouzet.dark-theme-the-new.svg)
@@ -11,9 +11,9 @@
         <img src="https://github.com/BaptisteCrouzet/DarkTheme-The-New/blob/develop/assets/logo@0,25x.jpg?raw=true" alt="logo">
     </a>
 </div>
-# Dark Theme - The New 🌙
 
-**Dark Theme - The New** is a sleek and modern dark theme for Visual Studio Code. It's been crafted with a keen eye for detail to provide a comfortable and delightful coding experience. This theme is perfect for those late-night coding sessions, and for anyone who prefers a darker, more muted color palette.
+**Dark Theme - The New** is a sleek and modern dark theme for Visual Studio Code.
+It's been crafted with a keen eye for detail to provide a comfortable and delightful coding experience. This theme is perfect for those late-night coding sessions, and for anyone who prefers a darker, more muted color palette.
 
 ## Features 🌟
 
@@ -36,7 +36,7 @@ Here comes a small preview of the theme :
 4. After installation, click on "Reload".
 5. Go to File -> Preferences -> Color Theme and select "Dark Theme - The New".
 
-## Feedback and Suggestions 💌
+## Feedback and Suggestions 💜
 
 If you have any feedback or suggestions, feel free to open an issue on GitHub. Your input is always welcome! I am constantly looking to improve and add new features to the theme based on user feedback.
 
