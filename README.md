@@ -15,6 +15,8 @@
 **Dark Theme - The New** is a sleek and modern dark theme for Visual Studio Code.
 It's been crafted with a keen eye for detail to provide a comfortable and delightful coding experience. This theme is perfect for those late-night coding sessions, and for anyone who prefers a darker, more muted color palette.
 
+### **Try me [HERE](https://vscode.dev/theme/BaptisteCrouzet.dark-theme-the-new) !**
+
 ## Features 🌟
 
 - A carefully curated color palette that's easy on the eyes. The dominant touch of **dark purple** throughout the theme provides a soothing and cohesive visual experience.
