@@ -2,7 +2,7 @@
     "name": "dark-theme-the-new",
     "displayName": "Dark Theme : The New",
     "description": "Dark Theme - The New is a sleek and modern dark theme for Visual Studio Code. It's been crafted with a keen eye for detail to provide a comfortable and delightful coding experience.",
-    "version": "1.2.0",
+    "version": "1.2.3",
     "license": "MIT",
 	"publisher": "BaptisteCrouzet",
     "keywords": [
@@ -40,7 +40,7 @@
         ]
     },
     "galleryBanner": {
-        "color": "##000000",
+        "color": "#000000",
         "theme": "dark"
     },
     "icon": "assets/logo@0,25x.jpg"
