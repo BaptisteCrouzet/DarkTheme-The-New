@@ -7,6 +7,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [1.2.4] - 2024-02-28
 
 ### Fixed
+- Set some markdown element appearing as white instead of gray
+
+## [1.2.4] - 2024-02-28
+
+### Fixed
 - Set colons and semicolons white again
 
 ## [1.2.0] - 2023-10-08
