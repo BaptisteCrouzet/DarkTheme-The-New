@@ -809,7 +809,7 @@
                 "punctuation.terminator.rule.scss"
             ],
             "settings": {
-                "foreground": "#404040"
+                "foreground": "#b5b5b5"
             }
         },
         {
@@ -2107,7 +2107,7 @@
                 "punctuation.terminator.statement.tsx"
             ],
             "settings": {
-                "foreground": "#404040"
+                "foreground": "#b5b5b5"
             }
         },
         {
@@ -2662,7 +2662,7 @@
                 "meta.link.email.lt-gt.markdown"
             ],
             "settings": {
-                "foreground": "#404040"
+                "foreground": "#b5b5b5"
             }
         },
         {
@@ -2689,7 +2689,7 @@
                 "inline-dollars"
             ],
             "settings": {
-                "foreground": "#404040"
+                "foreground": "#828282"
             }
         },
         {
@@ -2708,7 +2708,7 @@
             ],
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#404040"
+                "foreground": "#b5b5b5"
             }
         },
         {
@@ -2724,7 +2724,7 @@
                 "markup.strikethrough.markdown"
             ],
             "settings": {
-                "foreground": "#404040"
+                "foreground": "#b5b5b5"
             }
         },
         {
@@ -3203,7 +3203,7 @@
                 "punctuation.semi.rust"
             ],
             "settings": {
-                "foreground": "#404040"
+                "foreground": "#b5b5b5"
             }
         },
         {
@@ -3681,7 +3681,8 @@
                 "comment",
                 "comment.block",
                 "comment.block.documentation.js",
-                "comment.block.documentation.js storage.type.class.jsdoc                             punctuation.definition.block.tag.jsdoc",
+                "comment.block.documentation.js storage.type.class.jsdoc",
+                "punctuation.definition.block.tag.jsdoc",
                 "comment.line.shebang.js",
                 "punctuation.definition.comment.js",
                 "comment.line",
