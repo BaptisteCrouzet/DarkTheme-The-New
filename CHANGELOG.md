@@ -4,7 +4,13 @@ All notable changes to the "dark-theme---the-new" extension will be documented i
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [1.2.4] - 2024-02-28
+## [1.2.6] - 2024-02-28
+
+### Fixed
+- Give to some markdown element their real color by reparing the broken JSON objects
+- Make brighter some other markdown elements
+
+## [1.2.5] - 2024-02-28
 
 ### Fixed
 - Set some markdown element appearing as white instead of gray
