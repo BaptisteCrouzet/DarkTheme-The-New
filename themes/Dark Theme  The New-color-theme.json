@@ -2671,7 +2671,6 @@
                 "punctuation.definition.string.end.markdown",
                 "punctuation.definition.metadata.markdown",
                 "punctuation.definition.metadata.markdown",
-                "punctuation.definition.raw.markdown",
                 "punctuation.definition.link.markdown",
                 "punctuation.definition.italic.markdown",
                 "punctuation.definition.bold.markdown",
@@ -2689,7 +2688,7 @@
                 "inline-dollars"
             ],
             "settings": {
-                "foreground": "#828282"
+                "foreground": "#d5d5d5"
             }
         },
         {
