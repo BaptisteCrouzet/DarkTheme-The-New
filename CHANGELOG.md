@@ -4,6 +4,11 @@ All notable changes to the "dark-theme---the-new" extension will be documented i
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.2.4] - 2024-02-28
+
+### Fixed
+- Set colons and semicolons white again
+
 ## [1.2.0] - 2023-10-08
 
 ### Fixed
