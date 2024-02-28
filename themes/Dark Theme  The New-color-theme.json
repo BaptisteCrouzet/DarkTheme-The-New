@@ -805,25 +805,6 @@
         },
         {
             "scope": [
-                "meta.property-list.scss",
-                "punctuation.separator.key-value.css",
-                "punctuation.section.property-list.begin.bracket.curly",
-                "punctuation.section.property-list.end.bracket.curly",
-                "punctuation.section.media.begin.bracket.curly",
-                "punctuation.section.media.end.bracket.curly",
-                "punctuation.section.keyframes.begin.bracket.curly.scss",
-                "punctuation.section.keyframes.end.bracket.curly.scss",
-                "source.css.scss meta.at-rule.keyframes.scss punctuation.section.keyframes.begin.scss",
-                "source.css.scss meta.at-rule.keyframes.scss punctuation.section.keyframes.end.scss",
-                "punctuation.section.supports.begin.bracket.curly",
-                "punctuation.section.supports.end.bracket.curly"
-            ],
-            "settings": {
-                "foreground": "#808080"
-            }
-        },
-        {
-            "scope": [
                 "punctuation.terminator.rule.css",
                 "punctuation.terminator.rule.scss"
             ],
@@ -2465,7 +2446,7 @@
                 "punctuation.separator.array.json"
             ],
             "settings": {
-                "foreground": "#404040"
+                "foreground": "#ffffff"
             }
         },
         {
@@ -3785,6 +3766,55 @@
             ],
             "settings": {
                 "foreground": "#608B4E"
+            }
+        },
+        {
+            "scope": [
+                "meta.tag.sgml.html",
+                "meta.tag.sgml.doctype.html",
+                "meta.tag.sgml.html punctuation.definition.tag.html",
+                "meta.structure.dictionary.json",
+                "punctuation.definition.array.begin.json",
+                "punctuation.definition.array.end.json",
+                "punctuation.separator.array.json",
+                "punctuation.terminator",
+                "punctuation.definition.string.begin.markdown",
+                "punctuation.definition.string.end.markdown",
+                "punctuation.definition.metadata.markdown",
+                "invalid.illegal.bad-comments-or-CDATA.html",
+                "punctuation.definition.italic.markdown",
+                "punctuation.definition.bold.markdown"
+            ],
+            "settings": {
+                "foreground": "#FFFFFF"
+            }
+        },
+        {
+            "scope": [
+                "comment",
+                "comment.block.documentation",
+                "comment.block.documentation.js",
+                "comment.line.double-slash.js",
+                "storage.type.class.jsdoc",
+                "entity.name.type.instance.jsdoc",
+                "variable.other.jsdoc",
+                "punctuation.definition.comment",
+                "punctuation.definition.comment.begin.documentation",
+                "punctuation.definition.comment.end.documentation"
+            ],
+            "settings": {
+                "fontStyle": "italic",
+                "foreground": "#0f8200"
+            }
+        },
+        {
+            "scope": [
+                "punctuation.terminator.statement.js",
+                "source.js"
+            ],
+            "settings": {
+                "fontStyle": "italic",
+                "foreground": "#d1d1d1"
             }
         },
         {
