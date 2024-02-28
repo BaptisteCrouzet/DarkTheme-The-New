@@ -105,7 +105,7 @@
         "titleBar.activeBackground": "#720e7a",
         "titleBar.activeForeground": "#fefbff",
         "widget.border": "#ff00ea",
-        "widget.shadow": "#df7fff6b",
+        "widget.shadow": "#df7fff6b"
     },
     "tokenColors": [
         {
@@ -2662,7 +2662,7 @@
                 "meta.link.email.lt-gt.markdown"
             ],
             "settings": {
-                "foreground": "#b5b5b5"
+                "foreground": "#569cd6"
             }
         },
         {
@@ -2695,7 +2695,10 @@
         {
             "scope": [
                 "meta.link.reference.def.markdown constant.other.reference.link.markdown",
-                "text.html.markdown meta.paragraph.markdown meta.link.inet.markdown markup.underline.link.markdown"
+                "text.html.markdown",
+                "meta.paragraph.markdown",
+                "meta.link.inet.markdown",
+                "markup.underline.link.markdown"
             ],
             "settings": {
                 "foreground": "#569cd6"
@@ -3861,5 +3864,5 @@
                 "foreground": "#FFFFFF"
             }
         }
-    ],
+    ]
 }
