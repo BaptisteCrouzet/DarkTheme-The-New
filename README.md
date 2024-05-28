@@ -23,6 +23,7 @@ It's been crafted with a keen eye for detail to provide a comfortable and deligh
 - Distinct colors for **additions, deletions, and modifications, making diff reading a breeze**. This is particularly useful for developers who work with Git and other version control systems on a regular basis.
 - Excellent text readability across various widgets and status bars. I've ensured that every piece of text, whether it's in the editor or in a widget, is clear and easy to read.
 - Special attention to **Git-related activities and error highlighting** just because it's important to quickly spot changes and errors in your code, so these aspects stand out.
+- Nice colors on your terminal, your notification center and quick access modal.
 
 ## Preview 📸
 
@@ -40,8 +41,8 @@ Here comes a small preview of the theme :
 
 ## Feedback and Suggestions 💜
 
-If you have any feedback or suggestions, feel free to open an issue on GitHub. Your input is always welcome! I am constantly looking to improve and add new features to the theme based on user feedback.
+If you have any feedback or suggestions, feel free to open an issue on GitHub. Your input is always welcome ! I am constantly looking to improve and add new features to the theme based on your feedback.
 
 ---
 
-Thank you for considering **Dark Theme - The New** as your new favorite dark theme for Visual Studio Code!
+Thank you for considering **Dark Theme - The New** as your new favorite dark theme for Visual Studio Code !

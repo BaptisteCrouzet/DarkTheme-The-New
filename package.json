@@ -2,7 +2,7 @@
     "name": "dark-theme-the-new",
     "displayName": "Dark Theme : The New",
     "description": "Dark Theme - The New is a sleek and modern dark theme for Visual Studio Code. It's been crafted with a keen eye for detail to provide a comfortable and delightful coding experience.",
-    "version": "1.2.6",
+    "version": "1.3.0",
     "license": "MIT",
 	"publisher": "BaptisteCrouzet",
     "keywords": [
@@ -25,7 +25,7 @@
         "url": "https://github.com/BaptisteCrouzet/DarkTheme-The-New.git"
     },
     "engines": {
-        "vscode": "^1.83.0"
+        "vscode": "^1.86.0"
     },
     "categories": [
         "Themes"

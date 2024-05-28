@@ -4,6 +4,21 @@ All notable changes to the "dark-theme---the-new" extension will be documented i
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.3.0] - 2024-05-29
+
+## Added
+- Added a better color to the notification center
+- Added a new color to the remote indicator in the statusbar
+- Added missing git colors for the staged files and changes
+- Improved the color of the folded code
+- Improved the color of the comments, now grass green
+- Updated the README
+
+### Fixed
+- Remove some duplicated token color customizations when switching on 1.2.0
+- Retrieve some lost colors when switching on the 1.2.0
+- Reverting a changes made on JavaScript, introducing italic font on JavaScript code only
+
 ## [1.2.6] - 2024-02-28
 
 ### Fixed
